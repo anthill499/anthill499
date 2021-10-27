@@ -5,7 +5,7 @@ software development started in April 2021 when I picked up my first programming
 intense coding bootcamp that immerses their students in full-stack web development. Since then, I fell in love with programming and the amazing 
 people who come with the profession. 
 
-- 🔭 My favorite language is JavaScript
+- 🔭 My favorite programming language is JavaScript
 - 📫 How to reach me: anthill499@gmail.com
 - ⚡ Fun fact: My favorite hobby is producing/collabing on electronic music
 - [Resume](https://docs.google.com/document/d/1IcUP_hw8gasDm-8DZ1H6exlFt8lFD2DxxZ9ycyYk0To/edit?usp=sharing)
