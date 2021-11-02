@@ -32,3 +32,7 @@ people who come with the profession.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthill499&border_radius=8px&text_color=931607&title_color=931607&bg_color=FFF8F7&border_color=FF6752&show_icons)](https://github.com/anthill499/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthill499&layout=compact)](https://github.com/anthill499/github-readme-stats)
+
+
