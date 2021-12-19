@@ -1,14 +1,12 @@
 # Welcome! 👋
 
-My name is Anthony Huang and I am a 23 year old full-stack software engineer based in New York City who recently graduated from Stony Brook University. My journey into 
-software development started in April 2021 when I picked up my first programming book. Two months after, I joined [App Academy](https://www.appacademy.io/course/app-academy-open), a 16 week
-intense coding bootcamp that immerses their students in full-stack web development.
+My name is Anthony Huang and I am a 23 year old full-stack software engineer based in New York City who recently graduated from Stony Brook University with a B.S in Health Sciences. 
 
-- 🔭 Currently learning/working with: TypeScript, Jest, React Hooks
+- 🔭 Currently learning/working with: TypeScript, Python, React Hooks
 - ⚡ Fun fact: My favorite hobby is producing/collabing on electronic music
 - 📫 How to reach me: 
   - anthill499@gmail.com
-  - [Resume](https://docs.google.com/document/d/1IcUP_hw8gasDm-8DZ1H6exlFt8lFD2DxxZ9ycyYk0To/edit?usp=sharing)
+  - [Resume](https://docs.google.com/document/d/1V1s0ORb5fm8gu18XrvNT_qypCLwpR91vXl80GG7y8zM/edit?usp=sharing)
   - [Portfolio Site](https://www.anthonyhuang.dev/)
 ## Languages & Tools
 ### Frontend
