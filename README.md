@@ -39,11 +39,6 @@ My name is Anthony Huang and I am a 23 year old full-stack software engineer bas
 <div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="75px"/>
 <div>
-
-### Other technologies
-<div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="75px"/>S3
-<div>
   
 [![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthill499&border_radius=8px&text_color=931607&title_color=931607&bg_color=FFF8F7&border_color=FF6752&show_icons)](https://github.com/anthill499/github-readme-stats)
 
