@@ -4,10 +4,11 @@ My name is Anthony Huang and I am a 23 year old full-stack software engineer bas
 
 - 🔭 Currently learning/working with: TypeScript, Python, React Hooks
 - ⚡ Fun fact: My favorite hobby is producing/collabing on electronic music
-- 📫 How to reach me: 
+- 📫 My links: 
   - anthill499@gmail.com
   - [Resume](https://docs.google.com/document/d/1V1s0ORb5fm8gu18XrvNT_qypCLwpR91vXl80GG7y8zM/edit?usp=sharing)
   - [Portfolio Site](https://www.anthonyhuang.dev/)
+  - [Leetcode](https://leetcode.com/anthill499/)
 ## Languages & Tools
 ### Frontend
 <div display="flex" gap="15px">
