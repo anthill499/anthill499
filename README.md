@@ -1,39 +1,35 @@
-# Welcome! 👋
+# Hey! 👋
 
-My name is Anthony Huang and I am a 23 year old full-stack software engineer based in New York City who recently graduated from Stony Brook University with a B.S in Health Sciences. 
+I am a 26 year old software engineer based in New York City with a B.S Health Administration from Stony Brook University. 
 
-- 🔭 Currently learning/working with: TypeScript, Python, React Hooks
-- ⚡ Fun fact: My favorite hobby is producing/collabing on electronic music
-- 📫 My links: 
-  - anthill499@gmail.com
-  - [Resume](https://docs.google.com/document/d/1V1s0ORb5fm8gu18XrvNT_qypCLwpR91vXl80GG7y8zM/edit?usp=sharing)
-  - [Portfolio Site](https://www.anthonyhuang.dev/)
-  - [Leetcode](https://leetcode.com/anthill499/)
-## Languages & Tools
-### Frontend
+### Frontend Technologies
 <div display="flex" gap="15px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="75px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactrouter/reactrouter-original-wordmark.svg" width="75px"/>
 <div>
   
-### Backend
+### Server-side Technologies
 <div display="flex">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="75px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="75px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" width="75px"/>
 <div>
   
-### Databases
+### Data Analysis
+<div display="flex">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain-wordmark.svg" width="75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="75px"/>
+<div>
+  
+### Databases/DBMS
 <div display="flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="75px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="75px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="75px"/>
 <div>
   
 ### Testing
