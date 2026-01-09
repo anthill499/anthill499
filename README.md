@@ -1,6 +1,6 @@
 # Hey! 👋
 
-I am a 26 year old software engineer based in New York City with a B.S Health Administration from Stony Brook University. 
+I am a 28 year old software engineer based in New York City with a B.S Health Administration from Stony Brook University. 
 
 ### Frontend Technologies
 <div display="flex" gap="15px">
